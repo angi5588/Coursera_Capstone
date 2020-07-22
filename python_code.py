@@ -3,7 +3,7 @@
 
 # ## This notebook will be mainly used for the IBM's Applied Data Science Capstone Project
 
-# #### @author: 97kb059
+# #### @author: A.Fernando
 
 # In[1]:
 
@@ -19,7 +19,3 @@ print("Hello Capstone Project Course!")
 
 
 # In[ ]:
-
-
-
-
